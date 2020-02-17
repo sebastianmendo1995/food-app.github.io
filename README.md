@@ -25,7 +25,7 @@ The server will be initialize on port 8080
 
 # Technologies
 
-##Node.js
-##NPM
-##Babel
-##Webpack
+Node.js .
+NPM
+Babel
+Webpack
