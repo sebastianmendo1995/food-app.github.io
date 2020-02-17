@@ -4,6 +4,10 @@ This is a full JavaScript app that can be used to find different recipes and mak
 
 You can test this project [here](https://sebastianmendo1995.github.io/food-app/dist/)
 
+## Preview
+
+[[https://github.com/sebastianmendo1995/basketballRunner/blob/master/assets/images/frame.png]]
+
 # Setup and Installation 
 
 ## Setup
@@ -21,7 +25,7 @@ The server will be initialize on port 8080
 
 # Technologies
 
-Node.js
-NPM
-Babel
-Webpack
+##Node.js
+##NPM
+##Babel
+##Webpack
