@@ -8,8 +8,6 @@ You can test this project [here](https://sebastianmendo1995.github.io/food-app/d
 
 [[https://github.com/sebastianmendo1995/food-app/blob/master/dist/img/preview.png]]
 
-# Setup and Installation 
-
 ## Setup
 
 Run the following commands:
@@ -23,7 +21,7 @@ npm start
 
 The server will be initialize on port 8080
 
-# Technologies
+## Technologies
 
 * Node.js
 * NPM
