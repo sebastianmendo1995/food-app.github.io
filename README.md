@@ -6,7 +6,7 @@ You can test this project [here](https://sebastianmendo1995.github.io/food-app/d
 
 ## Preview
 
-[[https://github.com/sebastianmendo1995/basketballRunner/blob/master/assets/images/frame.png]]
+[[https://github.com/sebastianmendo1995/food-app/blob/master/dist/img/preview.png]]
 
 # Setup and Installation 
 
