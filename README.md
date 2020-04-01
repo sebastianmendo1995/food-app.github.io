@@ -6,7 +6,7 @@ You can test this project [here](https://sebastianmendo1995.github.io/food-app/d
 
 ## Preview
 
-[[https://github.com/sebastianmendo1995/food-app/blob/master/dist/img/preview.png]]
+![App photo](https://github.com/sebastianmendo1995/food-app/blob/master/dist/img/preview.png)
 
 ## Setup
 
